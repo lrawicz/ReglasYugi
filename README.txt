@@ -6,7 +6,7 @@ A) Definiciones
 	A.2) Ronda = Que cada jugador haya realizado un match contra cada oponente.
 	A.3) Ciclo = Un ciclo esta delimitado por su inicio y su fin. 
 		A.3.a) El inicio del ciclo es cuando se agregan cartas por drafteo
-		A.3.b) el centro del ciclo es un conjunto de rondas para determinar el ganador del torneo
+		A.3.b) el centro del ciclo es un conjunto de rondas para determinar el ganador del ciclo
 		A.3.c) el fin del ciclo sucede al determinar el ganador del ciclo.
 B)Inicio
 	B.1) 26 cartas base llamadas "Core"
