@@ -26,9 +26,9 @@ C) ingreso y egreso de cartas por ciclo
 	
 	3) -5ABCD -6 INICIALES, +9F (Neto:-2 Total:49) //se mantienen las 5 iniciales hasta el fin de los tiempos
 
-	4) -8ABCD, +9G +9H (Neto:+10 Total:59)
+	4) -8ABCD, +9G +9H (Neto:+10 Total:59) 
 	
-	5) -14ABCD, +9I +9J (Neto:+4 Total:63)
+	5) -14ABCD, +9I +9J (Neto:+4 Total:63) // Se mantienen las 4 Tier 1 ABCD hasta el fin de los tiempos
 	
 	6) -letra a eleccion (E,F,G,H) +9K (Neto:0 Total:63)
 	 
