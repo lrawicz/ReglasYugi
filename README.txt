@@ -24,8 +24,8 @@ C) ingreso y egreso de cartas por ciclo
 	3) -5ABCD -6 INICIALES, +9F
 	(se mantienen las 5 iniciales hasta el fin de los tiempos)
 	4) -8ABCD, +9G +9H
-	5) -13ABCD, +9I +9J
-	6) -5ABCD - letra a eleccion (E,F,G,H) +9K
+	5) -14ABCD, +9I +9J
+	6) -letra a eleccion (E,F,G,H) +9K
 	7) -letra a eleccion + 9L
 
 	C.2) 
