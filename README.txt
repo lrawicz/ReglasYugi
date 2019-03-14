@@ -38,10 +38,15 @@ D) Armado de Mazo y limitaciones:
 E) Armados de los Boosters:
 	
 
-	E.1)
+	E.1) Pares de boosters
 		Los boosters "E" y "F" van a estar basados en un mismo booster oficial
 		Los boosters "G" y "H" van a estar basados en un mismo booster oficial
 		Los boosters "I" y "J" van a estar basados en un mismo booster oficial
 		Los boosters "K" y "L" van a estar basados en un mismo booster oficial
+	E.2) los Boosters estaran armados bajo un esquema del tipo (lo siguiente es de ejemplo, es necesario definirlo)
+		3 cartas normales
+		3 cartas Sjj
+		2 cartas Sjj2
+		1 carta Tier Sjj4 (Tier1)
 F)Ganador del ciclo
 	F.1) Obtiene un item del milenio
