@@ -43,5 +43,5 @@ E) Armados de los Boosters:
 		Los boosters "G" y "H" van a estar basados en un mismo booster oficial
 		Los boosters "I" y "J" van a estar basados en un mismo booster oficial
 		Los boosters "K" y "L" van a estar basados en un mismo booster oficial
-	F)Ganador del ciclo
-		Obtiene un item del milenio
+F)Ganador del ciclo
+	F.1) Obtiene un item del milenio
