@@ -15,23 +15,31 @@ B)Inicio
 	B.2) 4 drafteos de cartas llamadas  "ABCD" (36 cartas)
 		B.2.a) los boosters ABCD fueron predefinidos por Nico
 
-C) ingreso y egreso de cartas por ciclo
-	C.1)
-	Ciclos:
-	0) +26 Core  (Neto:+26 Total:26)
+C) Ciclos y generaciones
+	Primera generacion:
+		1) +26 Core  (Neto:+26 Total:26)
 	
-	1) + 36 ABCD (Neto:+36 Total:62)
-	
-	2): - 15 INICIALES, +9E (Neto:-6 Total:56)
-	
-	3) -6 INICIALES, +9F (Neto:+3 Total:59) //se mantienen las 5 iniciales hasta el fin de los tiempos
+		2) + 36 ABCD (Neto:+36 Total:62)
+	C.1) Ciclos
+		1): - 15 INICIALES, +9E (Neto:-6 Total:56)
 
-	4) +9G +9H (Neto:+18 Total:77) 
+		2) -6 INICIALES, +9F (Neto:+3 Total:59) //se mantienen las 5 iniciales hasta el fin de los tiempos
+
+		3) +9G +9H (Neto:+18 Total:77) 
+
+		4)  +9I +9J (Neto:+18 Total:95) 
 	
-	5)  +9I +9J (Neto:+18 Total:95) 
-	
-	C.2) 
+	C.2) Nuevas Generaciones:
+		C.2.a) se draftean 4 boosters por persona nuevos, usando un nuevo pool de boosters oficiales (usando los del año siguiente)
+		C.2.b) los jugadores se pueden quedar con 2 boosters entre los [A-J] de la generacion anterior
+		>
+		1) se draftean los boosters 
+	Al finalizar los 5 ciclos incia una nueva generacion
+
 "Y después una especie de reinicio manteniendo 2 boosters y haciendo un drafteo amplio de la siguiente generación"
+
+
+
 D) Armado de Mazo y limitaciones:
 	D.1) no se puede tener mas de 15 cartas Core en el mazo.
 	D.2) Solo se puede tener 4 cartas Tier 1.
