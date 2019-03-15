@@ -31,7 +31,7 @@ C) ingreso y egreso de cartas por ciclo
 	5)  +9I +9J (Neto:+18 Total:95) 
 	
 	C.2) 
-
+"Y después una especie de reinicio manteniendo 2 boosters y haciendo un drafteo amplio de la siguiente generación"
 D) Armado de Mazo y limitaciones:
 	D.1) no se puede tener mas de 15 cartas Core en el mazo.
 	D.2) Solo se puede tener 4 cartas Tier 1.
