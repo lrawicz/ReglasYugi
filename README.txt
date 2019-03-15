@@ -30,7 +30,8 @@ C) Ciclos y generaciones
 		4)  +9I +9J (Neto:+18 Total:95) 
 	
 	C.2) Nuevas Generaciones:
-		C.2.a) se draftean 4 boosters por persona nuevos, usando un nuevo pool de boosters oficiales (usando los del año siguiente)
+		C.2.a) se draftean 4 boosters por persona nuevos, usando un nuevo pool de boosters oficiales 
+		(usando los del año siguiente)
 		C.2.b) los jugadores se pueden quedar con 2 boosters entre los [A-J] de la generacion anterior
 		
 
