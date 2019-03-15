@@ -22,18 +22,14 @@ C) ingreso y egreso de cartas por ciclo
 	
 	1) + 36 ABCD (Neto:+36 Total:62)
 	
-	2): -5ABCD - 15 INICIALES, +9E (Neto:-11 Total:51)
+	2): - 15 INICIALES, +9E (Neto:-6 Total:56)
 	
-	3) -5ABCD -6 INICIALES, +9F (Neto:-2 Total:49) //se mantienen las 5 iniciales hasta el fin de los tiempos
+	3) -6 INICIALES, +9F (Neto:+3 Total:59) //se mantienen las 5 iniciales hasta el fin de los tiempos
 
-	4) -8ABCD, +9G +9H (Neto:+10 Total:59) 
+	4) +9G +9H (Neto:+18 Total:77) 
 	
-	5) -14ABCD, +9I +9J (Neto:+4 Total:63) // Se mantienen las 4 Tier 1 ABCD hasta el fin de los tiempos
+	5)  +9I +9J (Neto:+18 Total:95) 
 	
-	6) -letra a eleccion (E,F,G,H) +9K (Neto:0 Total:63)
-	 
-	7) -letra a eleccion + 9L (Neto:0 Total:63)
-
 	C.2) 
 
 D) Armado de Mazo y limitaciones:
@@ -44,12 +40,8 @@ D) Armado de Mazo y limitaciones:
 E) Armados de los Boosters:
 	
 
-	E.1) Pares de boosters
-		Los boosters "E" y "F" van a estar basados en un mismo booster oficial
-		Los boosters "G" y "H" van a estar basados en un mismo booster oficial
-		Los boosters "I" y "J" van a estar basados en un mismo booster oficial
-		Los boosters "K" y "L" van a estar basados en un mismo booster oficial
-	E.2) los Boosters estaran armados bajo un esquema del tipo (lo siguiente es de ejemplo, es necesario definirlo)
+
+	E.1) los Boosters estaran armados bajo un esquema del tipo (lo siguiente es de ejemplo, es necesario definirlo)
 		3 cartas normales
 		3 cartas Sjj
 		2 cartas Sjj2
