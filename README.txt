@@ -32,12 +32,7 @@ C) Ciclos y generaciones
 	C.2) Nuevas Generaciones:
 		C.2.a) se draftean 4 boosters por persona nuevos, usando un nuevo pool de boosters oficiales (usando los del año siguiente)
 		C.2.b) los jugadores se pueden quedar con 2 boosters entre los [A-J] de la generacion anterior
-		>
-		1) se draftean los boosters 
-	Al finalizar los 5 ciclos incia una nueva generacion
-
-"Y después una especie de reinicio manteniendo 2 boosters y haciendo un drafteo amplio de la siguiente generación"
-
+		
 
 
 D) Armado de Mazo y limitaciones:
