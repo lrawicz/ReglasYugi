@@ -46,9 +46,9 @@ E) Armados de los Boosters:
 
 
 	E.1) los Boosters estaran armados bajo un esquema del tipo (lo siguiente es de ejemplo, es necesario definirlo)
-		3 cartas normales
-		3 cartas Sjj
-		2 cartas Sjj2
-		1 carta Tier Sjj4 (Tier1)
+		3 cartas Comun
+		3 cartas Rare
+		2 cartas Super Rare
+		1 carta Ultra Rara (Ex-Tier1)
 F)Ganador del ciclo
 	F.1) Obtiene un item del milenio
