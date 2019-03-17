@@ -8,6 +8,7 @@ A) Definiciones
 		A.3.a) El inicio del ciclo es cuando se agregan cartas por drafteo
 		A.3.b) el centro del ciclo es un conjunto de rondas para determinar el ganador del ciclo
 		A.3.c) el fin del ciclo sucede al determinar el ganador del ciclo.
+	A.4) una generacion son 4-5 ciclos
 B)Inicio
 	B.1) 26 cartas base llamadas "Core"
 		B.1.a) solo se pueden elegir hasta 15 de las Core
