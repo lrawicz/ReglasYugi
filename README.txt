@@ -22,9 +22,9 @@ C) Ciclos y generaciones
 	
 		2) + 36 ABCD (Neto:+36 Total:62)
 	C.1) Ciclos
-		1): - 15 INICIALES, +9E (Neto:-6 Total:56)
+		1):  +9E (Neto:-6 Total:56) Limite de CORE = 11
 
-		2) -6 INICIALES, +9F (Neto:+3 Total:59) //se mantienen las 5 iniciales hasta el fin de los tiempos
+		2) +9F (Neto:+3 Total:59) Limite de CORE = 5 //se mantienen las 5 iniciales hasta el fin de los tiempos
 
 		3) +9G +9H (Neto:+18 Total:77) 
 
